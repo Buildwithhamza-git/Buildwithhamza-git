@@ -1,10 +1,11 @@
 
 # Hi there, I'm Hamza Sarwar 👋
 
-I am a passionate **Full-Stack Developer** and **AI Enthusiast**. Currently, I am expanding my skills in Machine Learning and Data Science while building robust web and mobile applications.
+I am a Computer Science graduate-in-progress with a strong foundation in software development and a growing specialization in Artificial Intelligence and Data Science. My academic and practical experience spans machine learning, natural language processing, data analysis, and enterprise application development.
 
-- 🔭 I’m currently working on a **US Housing Price Prediction App** using Streamlit.
-- 🌱 I’m currently learning **Deep Learning and NLP**.
+I enjoy transforming theoretical concepts into real-world applications, building scalable solutions, and continuously improving my technical skill set. I am particularly interested in developing intelligent systems that combine AI models with modern web technologies.
+
+- 🌱 I’m currently learning **Machine Learning & Modern Web Technologies**.
 - 💬 Ask me about ** Python or JavaScript**.
 - 📫 Reach me at: [sarwarhamza04@gmail.com]
 
@@ -39,19 +40,6 @@ I am a passionate **Full-Stack Developer** and **AI Enthusiast**. Currently, I a
 ---
 
 ### 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hamzasarwar01/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzasarwar01/)
 
-<!--
-**Buildwithhamza-git/Buildwithhamza-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently workin
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
