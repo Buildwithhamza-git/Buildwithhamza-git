@@ -1,45 +1,183 @@
+# <h1 align="center">Hi 👋, I'm Hamza Sarwar</h1>
 
-# Hi there, I'm Hamza Sarwar 👋
+<h3 align="center">
+Computer Science Student | MERN Stack Developer | AI & Machine Learning Enthusiast
+</h3>
 
-I am a Computer Science graduate-in-progress with a strong foundation in software development and a growing specialization in Artificial Intelligence and Data Science. My academic and practical experience spans machine learning, natural language processing, data analysis, and enterprise application development.
-
-I enjoy transforming theoretical concepts into real-world applications, building scalable solutions, and continuously improving my technical skill set. I am particularly interested in developing intelligent systems that combine AI models with modern web technologies.
-
-- 🌱 I’m currently learning **Machine Learning & Modern Web Technologies**.
-- 💬 Ask me about ** Python or JavaScript**.
-- 📫 Reach me at: [sarwarhamza04@gmail.com]
-
----
-
-### 🛠️ Skills & Technologies
-
-#### 🖥️ Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-
-#### 🌐 Web & App Development
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-#### 🤖 AI / Data Science
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-- **NLP:** Text preprocessing, Tokenization, Stemming.
-- **Evaluation:** MAE, Accuracy Score, Confusion Matrix.
-
-
-
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Buildwithhamza-git&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buildwithhamza-git&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Artificial+Intelligence+Enthusiast;Machine+Learning+Learner;Building+Scalable+Web+Applications" />
+</p>
 
 ---
 
-### 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzasarwar01/)
+## 🚀 About Me
+
+🎓 BS Computer Science Student
+
+💻 Passionate about Full Stack Web Development & Artificial Intelligence
+
+## 🌱 Currently Learning
+
+### 🚀 Full Stack Development
+
+* Advanced React.js
+* Next.js
+* Express.js
+* Node.js
+* MongoDB
+* RESTful APIs
+* JWT Authentication & Authorization
+* State Management
+* System Design
+
+### 🤖 Artificial Intelligence & Data Science
+
+* Machine Learning
+* Data Analysis
+* Natural Language Processing (NLP)
+* Deep Learning Fundamentals
+* Model Evaluation & Optimization
+* Data Visualization
+
+---
 
 
+📫 Email:
+**[hamzasarwar.official01@gmail.com](mailto:sarwarhamza04@gmail.com)**
+
+💼 LinkedIn:
+**[www.linkedin.com/in/hamzasarwar01](http://www.linkedin.com/in/hamzasarwar01)**
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript" />
+</p>
+
+---
+
+## 🌐 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite" />
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postman" />
+<img src="https://skillicons.dev/icons?i=mongodb," />
+
+
+</p>
+
+
+---
+
+## 🤖 Artificial Intelligence & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=sklearn"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib" />
+
+</p>
+
+| Technology         | Skills                                  |
+| ------------------ | --------------------------------------- |
+| NumPy              | Data Manipulation                       |
+| Pandas             | Data Analysis                           |
+| Scikit-Learn       | Machine Learning                        |
+| NLP                | Tokenization, Stemming, Text Processing |
+| Matplotlib         | Data Visualization                      |
+| Evaluation Metrics | Accuracy, MAE, Confusion Matrix         |
+
+---
+
+## 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,npm" />
+</p>
+
+---
+
+# 📚 Computer Science Knowledge
+
+
+✔ Object Oriented Programming
+
+✔ Database Management Systems
+
+✔ Computer Networks
+
+✔ Software Engineering
+
+✔ Operating Systems
+
+✔ REST API Development
+
+✔ Authentication & Authorization
+
+✔ JWT
+
+✔ MVC Architecture
+
+---
+
+
+# 📈 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Buildwithhamza-git&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Buildwithhamza-git&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buildwithhamza-git&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Buildwithhamza-git&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Buildwithhamza-git&theme=tokyo-night" />
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/hamzasarwar01">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:hamzasarwar.official01@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+<p align="center">
+⚡ "Turning Ideas Into Intelligent Solutions"
+</p>
