@@ -1,133 +1,231 @@
-# <h1 align="center">Hi 👋, I'm Hamza Sarwar</h1>
 
-<h3 align="center">
-Computer Science Student | MERN Stack Developer | AI & Machine Learning Enthusiast
-</h3>
+<div align="center">
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9FF&height=230&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Hamza%20Sarwar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"
+  width="100%"
+/>
+</div>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Artificial+Intelligence+Enthusiast;Machine+Learning+Learner;Building+Scalable+Web+Applications" />
-</p>
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=50&lines=%3C+Software+Developer+%2F%3E;%3C+MERN+Stack+Developer+%2F%3E;%3C+Backend+%26+API+Developer+%2F%3E;%3C+AI+%26+Machine+Learning+Enthusiast+%2F%3E;%3C+Building+Scalable+Web+Applications+%2F%3E"
+  alt="Typing Animation"
+/>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 BS Computer Science Student
+🎓 **BS Computer Science Graduate**
 
-💻 Passionate about Full Stack Web Development & Artificial Intelligence
+💻 Software Developer focused on **Full Stack & Backend Development With AI**
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently Learning
+🚀 Experienced with **MERN, REST APIs, Authentication, Databases & SaaS Applications**
 
-### 🚀 Full Stack Development
+🤖 Interested in **AI, Machine Learning & intelligent web applications**
 
-* Advanced React.js
-* Next.js
-* Express.js
-* Node.js
-* MongoDB
+
+---
+
+### 💼 Professional Experience
+
+**Software Developer Trainee — MERN Stack**
+**QALAM Training Program | Powered by SeeBiz Pvt. Ltd.**
+`Feb 2026 – Sep 2026`
+
+During the program, I worked on strengthening my full-stack development skills while also developing professional skills in:
+
+* Full Stack Web Development
+* MERN Stack
+* REST API Development
+* Database Design
+* Authentication & Authorization
+* Git & GitHub
+* Communication & Professional Speaking
+* Technical Presentations
+* Collaboration & Teamwork
+
+---
+<h1 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+  What I Build
+</h1>
+
+
+I enjoy working on applications that combine strong backend architecture with clean and practical user experiences.
+
+### 🌐 Full Stack Web Applications
+
+* MERN Stack applications
 * RESTful APIs
-* JWT Authentication & Authorization
-* State Management
-* System Design
+* Authentication & Authorization
+* JWT-based security
+* Role-based access control
+* Database-driven applications
+* SaaS applications
+* Admin dashboards
+* Business management systems
 
-### 🤖 Artificial Intelligence & Data Science
+### ⚙️ Backend Development
+
+* Node.js
+* Express.js
+* REST APIs
+* MongoDB & Mongoose
+* PostgreSQL
+* Drizzle ORM
+* JWT Authentication
+* OTP & verification workflows
+* API validation
+* Error handling
+* MVC & feature-based architecture
+
+### 🤖 AI & Machine Learning
 
 * Machine Learning
+* Natural Language Processing
+* Recommendation Systems
 * Data Analysis
-* Natural Language Processing (NLP)
-* Deep Learning Fundamentals
-* Model Evaluation & Optimization
 * Data Visualization
+* Model Evaluation
+* Feature Engineering
+* TensorFlow
+* Scikit-Learn
 
 ---
-
-
-📫 Email:
-**[hamzasarwar.official01@gmail.com](mailto:sarwarhamza04@gmail.com)**
-
-💼 LinkedIn:
-**[www.linkedin.com/in/hamzasarwar01](http://www.linkedin.com/in/hamzasarwar01)**
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
+<h1 align="center" >
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" />
+  Tech Stack
+</h1>
 
 ## 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="70" height="80" />
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="70" height="80" />
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="70" height="80" />
+    </td>
+ 
+  </tr>
+</table>
 
 ---
 
 ## 🌐 Frontend Development
+<table align="center" >
+<tr>
+<td>
+ <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" height="50" />
+</td>
+<td>
+ <img src="https://skillicons.dev/icons?i=nextjs" height="50" />
+</td>
+<td>
+ <img src="https://skillicons.dev/icons?i=html" height="70"/>
+</td>
+<td>
+ <img src="https://skillicons.dev/icons?i=css" height="70"/>
+</td>
+<td>
+ <img src="https://skillicons.dev/icons?i=tailwind" height="70"/>
+</td>
+<td>
+ <img src="https://skillicons.dev/icons?i=bootstrap" height="70"/>
+</td>
+</td>
+</tr>
+</table>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite" />
-</p>
+---
+
+## ⚙️ Backend & APIs
+
+<table align="center">
+<tr>
+<td>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="70" alt="Node.js"/>
+</td>
+<td>
+  <img src="https://skillicons.dev/icons?i=express" height="70" alt="Express.js"/>
+</td>
+
+<td>
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="70" height="70"/>
+</td>
+<td>
+  <img src="https://skillicons.dev/icons?i=redis" height="70" alt="Redis"/>
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚙️ Backend Development
+## 🗄️ Databases & ORM
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postman" />
-<img src="https://skillicons.dev/icons?i=mongodb," />
+<table align="center">
+<tr>
+<td>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="70" alt="MongoDB"/>
+</td>
+<td>
+  <img src="https://skillicons.dev/icons?i=mysql" height="70" alt="MySQL"/>
+</td>
+<td>
+  <img src="https://skillicons.dev/icons?i=postgresql" height="70" alt="PostgreSQL"/>
+</td>
+<td>
+  <img src="https://skillicons.dev/icons?i=sqlite" height="70" alt="SQLite"/>
+</td>
+</tr>
+</table>
 
-
-</p>
-
-
----
-
-## 🤖 Artificial Intelligence & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=sklearn"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib" />
-
-</p>
-
-| Technology         | Skills                                  |
-| ------------------ | --------------------------------------- |
-| NumPy              | Data Manipulation                       |
-| Pandas             | Data Analysis                           |
-| Scikit-Learn       | Machine Learning                        |
-| NLP                | Tokenization, Stemming, Text Processing |
-| Matplotlib         | Data Visualization                      |
-| Evaluation Metrics | Accuracy, MAE, Confusion Matrix         |
 
 ---
+
+
 
 ## 🔧 Tools & Platforms
+<table align="center">
+<tr>
+<td>
+  <img src="https://skillicons.dev/icons?i=git" height="70" alt="Git"/>
+</td>
+<td>
+   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="70" height="70" />
+</td>
+<td>
+  <img src="https://skillicons.dev/icons?i=gitlab" height="70" alt="GitLab"/>
+</td>
+<td>
+  <img src="https://skillicons.dev/icons?i=postman" height="70" alt="Postman"/>
+</td>
+<td>
+  <img src="https://skillicons.dev/icons?i=vscode" height="70" alt="VS Code"/>
+</td>
+<td>
+  <img src="https://skillicons.dev/icons?i=npm" height="70" alt="NPM"/>
+</td>
+</tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,npm" />
-</p>
+<tr>
 
----
+<td>
+  <img src="https://skillicons.dev/icons?i=vercel" height="70" alt="Vercel"/>
+</td>
+<td>
+  <img src="https://skillicons.dev/icons?i=netlify" height="70" alt="Netlify"/>
+</td>
+<td>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="70" alt="GitHub Actions"/>
+</td>
+</tr>
+</table>
 
-# 📚 Computer Science Knowledge
-
-
-✔ Object Oriented Programming
-
-✔ Database Management Systems
-
-✔ Computer Networks
-
-✔ Software Engineering
-
-✔ Operating Systems
-
-✔ REST API Development
-
-✔ Authentication & Authorization
-
-✔ JWT
-
-✔ MVC Architecture
 
 ---
 
@@ -135,7 +233,7 @@ Computer Science Student | MERN Stack Developer | AI & Machine Learning Enthusia
 # 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Buildwithhamza-git&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Buildwithhamza-git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
 </p>
 
 <p align="center">
@@ -146,38 +244,53 @@ Computer Science Student | MERN Stack Developer | AI & Machine Learning Enthusia
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buildwithhamza-git&layout=compact&theme=tokyonight" />
 </p>
 
+
+
 ---
 
-# 🏆 GitHub Trophies
+# 📈 GitHub Contribution Calendar
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Buildwithhamza-git&theme=tokyonight&row=1&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Buildwithhamza-git&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-# 📊 Contribution Graph
+
+# 📫 Let's Connect
+
+<table align="center">
+<tr>
+<td align="center" width="150">
+  <a href="https://github.com/Buildwithhamza-git">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg"" height="60"  alt="GitHub"/>
+    <br/>
+    <strong>GitHub</strong>
+  </a>
+</td>
+
+<td align="center" width="150">
+  <a href="https://www.linkedin.com/in/hamzasarwar-dev/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="LinkedIn"/>
+    <br/>
+    <strong>LinkedIn</strong>
+  </a>
+</td>
+
+<td align="center" width="150">
+  <a href="mailto:hamzasarwar.official01@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="60" />
+    <br/>
+    <strong>Email</strong>
+  </a>
+</td>
+</tr>
+</table>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Buildwithhamza-git&theme=tokyo-night" />
+  <strong>⚡ Turning Ideas Into Intelligent, Scalable Solutions.</strong>
 </p>
 
----
-
-# 🤝 Connect With Me
-
 <p align="center">
-<a href="https://www.linkedin.com/in/hamzasarwar01">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:hamzasarwar.official01@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
-
----
-
-<p align="center">
-⚡ "Turning Ideas Into Intelligent Solutions"
+  <i>Build • Learn • Improve • Repeat</i>
 </p>
