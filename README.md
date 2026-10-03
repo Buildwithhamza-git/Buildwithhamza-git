@@ -53,43 +53,69 @@ During the program, I worked on strengthening my full-stack development skills w
 
 I enjoy working on applications that combine strong backend architecture with clean and practical user experiences.
 
-### 🌐 Full Stack Web Applications
 
-* MERN Stack applications
-* RESTful APIs
-* Authentication & Authorization
-* JWT-based security
-* Role-based access control
-* Database-driven applications
-* SaaS applications
-* Admin dashboards
-* Business management systems
 
-### ⚙️ Backend Development
+<table align="center">
+<tr>
 
-* Node.js
-* Express.js
-* REST APIs
-* MongoDB & Mongoose
-* PostgreSQL
-* Drizzle ORM
-* JWT Authentication
-* OTP & verification workflows
-* API validation
-* Error handling
-* MVC & feature-based architecture
+<td width="33%" valign="top">
 
-### 🤖 AI & Machine Learning
+<h3 align="center">🌐 Full Stack Web Applications</h3>
 
-* Machine Learning
-* Natural Language Processing
-* Recommendation Systems
-* Data Analysis
-* Data Visualization
-* Model Evaluation
-* Feature Engineering
-* TensorFlow
-* Scikit-Learn
+<ul>
+  <li>MERN Stack Applications</li>
+  <li>RESTful APIs</li>
+  <li>Authentication & Authorization</li>
+  <li>JWT-Based Security</li>
+  <li>Role-Based Access Control</li>
+  <li>Database-Driven Applications</li>
+  <li>SaaS Applications</li>
+  <li>Admin Dashboards</li>
+  <li>Business Management Systems</li>
+</ul>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">⚙️ Backend Development</h3>
+
+<ul>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>REST APIs</li>
+  <li>MongoDB & Mongoose</li>
+  <li>PostgreSQL</li>
+  <li>Drizzle ORM</li>
+  <li>JWT Authentication</li>
+  <li>OTP & Verification Workflows</li>
+  <li>API Validation</li>
+  <li>Error Handling</li>
+  <li>MVC & Feature-Based Architecture</li>
+</ul>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🤖 AI & Machine Learning</h3>
+
+<ul>
+  <li>Machine Learning</li>
+  <li>Natural Language Processing</li>
+  <li>Recommendation Systems</li>
+  <li>Data Analysis</li>
+  <li>Data Visualization</li>
+  <li>Model Evaluation</li>
+  <li>Feature Engineering</li>
+  <li>TensorFlow</li>
+  <li>Scikit-Learn</li>
+</ul>
+
+</td>
+
+</tr>
+</table>
 
 ---
 <h1 align="center" >
